@@ -14,9 +14,9 @@ alt="Typing SVG" /></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" alt="TensorFlow Logo" height="60">
 
 ## 🌐 Connect With Me:
-<a href="https://discord.gg/shankz1514" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord Logo" height="50"></a>&emsp;
+<a href="https://discord.com/users/1085906634171220041" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord Logo" height="50"></a>&emsp;
 <a href="https://instagram.com/shankariraja07" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram Logo" height="50"></a>&emsp;
-<a href="https://linkedin.com/in/ShankariRaja" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Logo" height="50"></a>&emsp;
+<a href="https://www.linkedin.com/in/shankari-raja-7b1b4a247" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Logo" height="50"></a>&emsp;
 <a href="https://twitter.com/ShankariRa6211" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter Logo" height="50"></a>&emsp;
 
 # 📊 GitHub Stats:
